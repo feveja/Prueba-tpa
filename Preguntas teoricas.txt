@@ -1,0 +1,12 @@
+1-Con el repositorio ya clonado en Local(Despues de hacer el git init) lo que hacemos es usar primeramente el comando git status para saber el estado de los archivos y hacemos un git add nombredelarchivo o si queremos subirlos todos un git add. y volvemos a hacer git status para ver si estos archivos estan, luego realizamos el commit y el git push para subirlo  
+2-Para poder utilizar el codigo que ya esta en un repositorio tenemos que clonarlo a nuestro Local para trabajarlo desde ahi con git clone y si queremos tener nuestro propio espacio en ese remoto simplemente creamos una nueva rama 
+3-Si se intenta crear un objeto de una clase abstracta en Python, se producirá un error. Esto se debe a que una clase abstracta está diseñada para ser utilizada como una plantilla para otras clases un ejemplo practico de esto fue lo visto en clases con el metodo make_sound de la clase Animal que si la ejecutamos desde ahi nos dara error ya que lo tenemos que implementar por ejemplo en la clase gato
+4-Esto significa que nuestra clase es abstracta y que espera que otras clases o subclases la utilicen. 
+5- El evento de presionar un boton, Cierre de ventana y cambio de seleccion en lista.
+6- Lo que entiendo por ciclo de eventos es cuando la persona ya esta interactuando con el gui
+7- Segun mis codigos al lanzar un QDialog si o si hay que interactuar con este pq no dejara usar la ventana principal mientres este este activo.
+8-QSpinBox,QLineEdit,QComboBox,QLabel,QH
+9- Como Mencionaba anteriormente se puede Utilizar los QSpinbox y los QlineEdit pero este ultimo es para todo tipo de valor tanto texto como numerico.
+10- Una de las maneras mas menos complica es desde el apartado de Formulario de Qtdesigner y seleccionar el boton View python code y mostrar el codigo y tambien nos mmuestra la opcion de guarda este mismo codigo como archivo
+
+Link Github: https://github.com/feveja/Prueba-tpa.git
